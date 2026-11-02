@@ -66,5 +66,4 @@ dhat-heap.json
 /__pycache__/
 /nix/result
 *.qcow2
-config.bat
 node_modules
